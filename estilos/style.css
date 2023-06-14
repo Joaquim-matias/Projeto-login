@@ -40,9 +40,14 @@ section#login {
 }
 
 section#login > div#imagem {
-     background: #5f2c82 url(../imagens/pexels-mithul-varshan-3023211.jpg) no-repeat;
+     background: #5f2c82 url(../imagens/style.jpg.jpg) no-repeat;
      background-size: cover;
      background-position: left bottom;
      height: 200px;
 
+}
+
+section#login > div#formulario {
+     display: block;
+     padding: 10px;
 }
